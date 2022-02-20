@@ -6,3 +6,8 @@
 - Bring back and switch to AOSP Wi-Fi Display (WFD) implementation
 - CTS passed by default
 - Kernel Merged tag 'LA.UM.9.1.r1-11100-SMxxx0.0'
+
+# V4.5
+- Feb 2022 Security patch
+- inital Official build 
+- CTS passed by default
